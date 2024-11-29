@@ -3,9 +3,6 @@ spring:
         name: mongo-demo
     data:
         mongodb:
-            authentication-database: admin
             host: localhost
             port: 27017
             database: daijia
-            username: admin
-            password: admin
